@@ -31,7 +31,7 @@ Afgelopen jaar werkte Johan Groenen, partner bij Tiltshift, vanuit het programma
 
 **Wat zou je zeggen dat het grootste succes was dat voortkwam uit deze open samenwerking en design aanpak?**
 
-*"Uiteindelijk hebben al deze verschillende projecten geleid tot een gezamenlijk beeld van wat een gegevensboekhouding zou moeten zijn. Dit ging gepaard met een metamodel om alle handelingen met betrekking tot gegevens en de verantwoordelijkheden daarbij te administreren. Dit model vormt de basis voor het beleid dat nu wordt opgesteld. Organisaties kunnen daarmee hun eigen tooling vormgeven, hopelijk in samenwerking, en we zetten een platform op waar ze open (source) aan deze tooling kunnen werken. Het succes zit dus in het creëren van een gezamenlijke basis waarop verder gebouwd kan worden."*
+*"Uiteindelijk hebben al deze verschillende projecten geleid tot een gezamenlijk beeld van wat een gegevensboekhouding zou moeten zijn. Dit ging gepaard met een metamodel om alle handelingen met betrekking tot gegevens en de verantwoordelijkheden daarbij te administreren. Dit model is de exacte weerspiegeling van het gegevensbeleid en vormt de basis voor de boekhouding. Organisaties kunnen daarmee hun eigen tooling vormgeven, hopelijk in samenwerking, en we zetten een platform op waar ze open (source) aan deze tooling kunnen werken. Het succes zit dus in het creëren van een gezamenlijke basis waarop verder gebouwd kan worden."*
 
 **Nu je je rol afrondt, hoe zie je de toekomst van dit project?**
 
