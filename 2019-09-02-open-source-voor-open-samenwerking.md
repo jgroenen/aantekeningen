@@ -6,7 +6,7 @@ caption: '"Collaborate [11/52]" by Brenderous is licensed with CC BY-NC-SA 2.0. 
 teaser: 'In de praktijk blijkt de mentaliteit in overheids ICT-projecten vaak nog best wel ‘closed source’ te zijn: pas als het project is afgerond, wordt de code openbaar gemaakt. Vaak duurt het zelfs nóg een paar maanden, omdat de code geschikt moet worden gemaakt voor publicatie.'
 ---
 
-Originele publicatie in iBestuur op 2 september 2019 https://ibestuur.nl/artikel/open-samenwerking/
+Originele publicatie in iBestuur op 2 september 2019 [https://ibestuur.nl/artikel/open-samenwerking/](https://ibestuur.nl/artikel/open-samenwerking/)
 
 De kracht van open source is dat het ook ingezet kan worden bij dingen die je al doet of nog van plan bent te doen.
 
