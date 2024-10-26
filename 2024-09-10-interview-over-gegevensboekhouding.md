@@ -1,7 +1,7 @@
 ---
 tags: ['open source', 'publictech']
 title: "Interview over Gegevensboekhouding"
-image: https://i.imgur.com/uTapMEf.png
+image: https://i.imgur.com/2EWMjyE.png
 caption: Afgelopen jaar werkte Johan Groenen, partner bij Tiltshift, vanuit het programma Open op Orde met het CDO Office van het Ministerie van Justitie en Veiligheid aan het Afsprakenstelsel Gegevens en Algoritmes, en daarbinnen aan het concept Gegevensboekhouding.
 teaser: 'Uiteenlopende wensen en verwachtingen vertalen naar een duidelijk concept voor "Gegevensboekhouding"'
 ---
