@@ -22,6 +22,8 @@ Tip: publiceer wel altijd een licentie bij je broncode op github, want zonder li
 
 Tot slot bespreekt Walter nog een flink aantal verdienmodellen die verschillende grote bedrijven gebruiken rondom of op open source software, van consultancy tot maatwerk in opdracht, van implementatie tot hosting en support. Ook worden online diensten genoemd die draaien bovenop open source software en daaraan bijdragen.
 
+![Open Source Licenties]({{ "/aantekeningen/img/open-source-verdienmodellen-holst.png" | relative_url }})
+
 ## Openstaande vragen
 
 Vragen waar we niet aan toe zijn gekomen, maar die we nog wel met elkaar willen bespreken in een vervolgmeetup:
