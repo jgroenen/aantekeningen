@@ -6,9 +6,7 @@ caption: "Voor complexe projecten waarin een breed scala aan partijen samenwerke
 teaser: "Hoe kunnen publieke projecten effectiever samenwerken? Het Common Ground-model biedt hiervoor een interessante opzet."
 ---
 
-Gepubliceerd op [Opensourcewerken](https://opensourcewerken.nl/blog/view/661d5531-c564-4823-8b9a-7ebdd6801690/wat-projecten-kunnen-leren-van-common-ground), 15 januari 2025
-
-# Wat projecten kunnen leren van Common Ground
+Oorspronkelijk gepubliceerd op [Opensourcewerken](https://opensourcewerken.nl/blog/view/661d5531-c564-4823-8b9a-7ebdd6801690/wat-projecten-kunnen-leren-van-common-ground)
 
 In een eerder artikel over gegevensboekhouding schreef ik over wat voor lessen ik uit dat project meeneem naar een volgend project. Reflecterend stelde ik mezelf de vraag: hoe kunnen publieke projecten effectiever samenwerken? Het Common Ground-model biedt hiervoor een interessante opzet. Daarbij is het wel belangrijk een paar valkuilen te vermijden.
 
@@ -16,7 +14,7 @@ In een eerder artikel over gegevensboekhouding schreef ik over wat voor lessen i
 
 Voor complexe projecten waarin een breed scala aan partijen samenwerken richting een gezamenlijk doel is open samenwerking en open innovatie een krachtige aanpak. Het idee is simpel: als iedereen op een proactieve, open manier werkt aan eigen innovatieve toepassingen en experimenten, is het eenvoudig om te hergebruiken, samenwerking op te zoeken en op elkaars werk voort te borduren. Zo ontstaat een centrale, open basis van (de facto) standaarden en code bases, zonder de bottleneck van centrale sturing.
 
-> Als iedereen op een proactieve, open manier werkt aan eigen innovatieve toepassingen en experimenten, is het eenvoudig om te hergebruiken, samenwerking op te zoeken en op elkaars werk voort te borduren.
+### Als iedereen op een proactieve, open manier werkt aan eigen innovatieve toepassingen en experimenten, is het eenvoudig om te hergebruiken, samenwerking op te zoeken en op elkaars werk voort te borduren.
 
 De kracht van deze aanpak ligt in de combinatie van lokale autonomie en gezamenlijke ontwikkeling. Iedereen kan werken aan wat voor hem of haar prioriteit heeft. Door gebruikte informatiemodellen en tools laagdrempelig te delen, kan een vorm van convergentie ontstaan. De facto standaarden kunnen vervolgens later worden geformaliseerd waar nodig, bijvoorbeeld in architectuur of beleid.
 
