@@ -8,11 +8,9 @@ teaser: "Als beleidsmakers en programmeurs in de publieke sector moeten we besef
 
 Vandaag bij [Logius](https://www.logius.nl/) op bezoek geweest.
 
-Tom Ootes, developer relations bij [developer.overheid.nl](https://developer.overheid.nl), gaf een presentatie over de [Standaard voor Publieke Code](https://www.standaardvoorpubliekecode.nl/presentation), Nederlandse vertaling van de [Standard for Public Code](https://www.standardforpubliccode.org) die we vorig jaar in opdracht van [Opensourcewerken (MinBZK)](https://www.opensourcewerken.nl) vertaalden.
+Tom Ootes, developer relations bij [developer.overheid.nl](https://developer.overheid.nl), gaf daar een presentatie over de [Standaard voor Publieke Code](https://www.standaardvoorpubliekecode.nl/presentation), Nederlandse vertaling van de [Standard for Public Code](https://www.standardforpubliccode.org) die we vorig jaar in opdracht van [Opensourcewerken (MinBZK)](https://www.opensourcewerken.nl) vertaalden.
 
-Opvallende misvatting: veel mensen denken dat de standaard bedoeld is om software "open source" te maken.
-
-Maar het gaat om iets anders: "publieke code" betekent dat beleid en software twee kanten van dezelfde medaille zijn. Uit de Standaard: "De Standaard voor Publieke Code ondersteunt het in samenwerking ontwikkelen van codebases die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam zijn."
+Opvallende misvatting: veel mensen denken dat de standaard primair bedoeld is om software "open source" te maken. Maar het gaat om iets anders: "publieke code" betekent dat beleid en software twee kanten van dezelfde medaille zijn. Uit de Standaard: "De Standaard voor Publieke Code ondersteunt het in samenwerking ontwikkelen van codebases die open, herbruikbaar, leesbaar, te verantwoorden, toegankelijk en duurzaam zijn."
 
 Als beleidsmakers en programmeurs in de publieke sector moeten we beseffen dat er specifieke eisen zijn aan ons werk, zoals algemene beginselen van behoorlijk bestuur en specifiekere wetten. De code die we schrijven moet daarom, net als beleid, aan een aantal eisen voldoen, waar onder:
 - mensen moeten het kunnen inzien en begrijpen, zodat ze kritisch kunnen meekijken en bevragen (wet open overheid)
