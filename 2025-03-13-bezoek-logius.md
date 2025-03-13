@@ -15,7 +15,7 @@ Opvallende misvatting: veel mensen denken dat de standaard bedoeld is om softwar
 Maar het gaat om iets anders: "publieke code" betekent dat beleid en software twee kanten van dezelfde medaille zijn.
 
 Als beleidsmakers en programmeurs in de publieke sector moeten we beseffen dat er specifieke eisen zijn aan ons werk:
-- Open werken en herbruikbaar beschikbaar stellen (vanuit WOO, WDO, WHO)
+- Open werken en herbruikbaar beschikbaar stellen (vanuit bijv. WOO, WHO)
 - Effectief en efficiënt publiek geld gebruiken
 - Zoveel mogelijk hergebruiken
 - Niet steeds het wiel opnieuw uitvinden
