@@ -8,7 +8,7 @@ teaser: "Als beleidsmakers en programmeurs in de publieke sector moeten we besef
 
 Vandaag bij [Logius](https://www.logius.nl/) op bezoek geweest.
 
-Tom Ootes, developer relations bij [developer.overheid.nl](https://developer.overheid.nl), gaf een presentatie over de [Standaard voor Publieke Code](https://www.standaardvoorpubliekecode.nl/presentatie), Nederlandse vertaling van de [Standard for Public Code](https://www.standardforpubliccode.org) die we vorig jaar in opdracht van [Opensourcewerken (MinBZK)](https://www.opensourcewerken.nl) vertaalden.
+Tom Ootes, developer relations bij [developer.overheid.nl](https://developer.overheid.nl), gaf een presentatie over de [Standaard voor Publieke Code](https://www.standaardvoorpubliekecode.nl/presentation), Nederlandse vertaling van de [Standard for Public Code](https://www.standardforpubliccode.org) die we vorig jaar in opdracht van [Opensourcewerken (MinBZK)](https://www.opensourcewerken.nl) vertaalden.
 
 Opvallende misvatting: veel mensen denken dat de standaard bedoeld is om software "open source" te maken.
 
