@@ -69,7 +69,8 @@ Johan: Je moet dus eigenlijk een Chief Digital Services Officer hebben. Of een C
 
 Johan: We moeten mensen niet tot robots maken die van bovenaf door data worden gestuurd. Datagedreven werken dient uitvoerende mensen juist te steunen in hun autonomie en professionaliteit. Datagedreven werken moet niet worden gezien als een micro-management tool, maar juist als het tegenovergestelde.
 
-“We moeten mensen niet tot robots maken die van bovenaf door data worden gestuurd.”
+### “We moeten mensen niet tot robots maken die van bovenaf door data worden gestuurd.”
+
 Maarten: Je kan datagedreven werken op twee manieren inzetten. Als mensen denken over datagestuurd werken, denken ze “ik wil die handhaver op de best mogelijke plek hebben.” Waar wij bang voor zijn is dat de computer precies gaat bepalen wat zij gaan doen: op welke straathoek de handhaver op welk tijdstip moet staan om de meeste boetes te kunnen uitschrijven. Als je het fingerspitzengefuhl bij de handhaver wegneemt, dan ben je het werk aan het optimaliseren op een manier die het werk van elk menselijk aspect onttrekt.
 
 Wij denken dat het precies de andere kant op moet: een datagedreven aanpak dient de professionaliteit van een uitvoerder te ondersteunen. Daardoor krijg je betere diensten. Je moet niet de data laten nadenken, maar mensen laten nadenken met data.
