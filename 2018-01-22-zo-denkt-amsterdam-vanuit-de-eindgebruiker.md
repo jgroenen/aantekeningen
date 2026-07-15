@@ -1,8 +1,8 @@
 ---
 tags: ['publieke sector', 'open samenwerking', 'inspiratie', 'creativiteit', 'software design']
 title: Zo denkt Amsterdam vanuit de eindgebruiker
-image: 
-caption: 
+caption: Dappermarkt © CC BY-SA 2.0- Flickr
+teaser: '“One size fits none. Overheden moeten weer meer zelf gaan ontwikkelen. Ze hebben gekke processen,” stelt Maarten Geraets. Hij zette drie jaar geleden op verzoek van de gemeente Amsterdam het Datalab op. Zijn opdracht was om met een innovatief team datagedreven toepassingen te zoeken voor een aantal zeurende problemen in de stad. Geraets ontwikkelde daarvoor samen met zijn zakenpartner Johan Groenen de Fixxx-methode, ofwel Fast Innovation Amsterdam. Inmiddels zijn al verschillende projecten met succes afgerond.'
 teaser: Overheden willen de burger graag meer centraal zetten. IT speelt daar een belangrijke rol in. De gemeente Amsterdam hanteert hiervoor een eigen ontwikkelde FIXX-methode.
 ---
 
