@@ -6,7 +6,7 @@ caption:
 teaser: Overheden willen de burger graag meer centraal zetten. IT speelt daar een belangrijke rol in. De gemeente Amsterdam hanteert hiervoor een eigen ontwikkelde FIXX-methode.
 ---
 
-> Lees het originele artikel op [AG Connect](https://www.agconnect.nl/tech-en-toekomst/marketing/zo-denkt-amsterdam-vanuit-de-eindgebruiker)
+(Lees het originele artikel op [AG Connect](https://www.agconnect.nl/tech-en-toekomst/marketing/zo-denkt-amsterdam-vanuit-de-eindgebruiker))
 
 “Een belangrijke beweging die we zien is dat overheden de burger meer centraal willen stellen. Ondertussen heeft de overheid te maken met de complexiteit van ambtelijke en politieke processen. Hoe zet je in die dagelijkse praktijk de burger centraal, dat is een vraag waar veel overheidsinstellingen mee bezig zijn”, merkt Gert Schuurman van ontwerpbureau Stroomt interactions.
 
@@ -16,11 +16,11 @@ Zijn organisatie hielp de gemeente Amsterdam bij de uitvoer van een project aan 
 
 Een Amsterdamse ambtenaar kan een vraagstuk indienen om daar de FIXXX-methode op toe te laten passen. Voorwaarde is dat de oplossing iets met technologie en software te maken moet hebben, zegt Schuurman. “Aan de hand van een intake wordt bepaald of het project met FIXXX aan te pakken is. Zo heeft niet alleen het Datalab invloed op de uitkomst, ook de bestuurslaag heeft er wat over te zeggen.”
 
-### Afgebakende vraagstukken
+### “Je ziet binnen overheden vaak dat ze wel mee willen met bepaalde IT-ontwikkelingen, maar dat wordt gedacht dat het niet binnen de overheid past – omdat die organisatie met politieke processen te maken heeft.”
 
 Niet alle vraagstukken zijn voor deze methode bruikbaar, zegt Schuurman. “Vooral heel specifieke afgebakende vraagstukken lenen zich voor deze methode. Maar dat zijn er eigenlijk heel veel.”
 
-Een voorbeeld van een vraagstuk dat Amsterdam met FIXXX aanpakte: Amsterdamse ambtenaren die  regelmatig in contact staan met straatcoaches – vaak jongeren uit de doelgroep – zochten een oplossing voor verslaglegging vanuit die straatcoaches. “Dit zijn vaak jongeren die op hun eigen manier verslag leggen. Vaak werd op de hoek van de straat in een mailtje op de telefoon het verslag getikt. Dat is niet veilig en niet handig”, zegt Schuurman. Het FIXXX-team heeft voor deze groep gebruikers een tool ontwikkeld.
+Een voorbeeld van een vraagstuk dat Amsterdam met FIXXX aanpakte: Amsterdamse ambtenaren die regelmatig in contact staan met straatcoaches – vaak jongeren uit de doelgroep – zochten een oplossing voor verslaglegging vanuit die straatcoaches. “Dit zijn vaak jongeren die op hun eigen manier verslag leggen. Vaak werd op de hoek van de straat in een mailtje op de telefoon het verslag getikt. Dat is niet veilig en niet handig”, zegt Schuurman. Het FIXXX-team heeft voor deze groep gebruikers een tool ontwikkeld.
 
 ## Mee de straat op
 
